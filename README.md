@@ -1,4 +1,3 @@
-编程改变世界！
 ```python
 def life(I):
   keep = ['health', 'love', 'dream']
